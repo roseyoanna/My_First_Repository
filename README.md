@@ -1,4 +1,4 @@
-# 💃 Primul meu Repository - Grup Learn
+# 💃1st Repository 
 Welcome, this is my space where I learn more using Git.
 
 ## 🛠️ Tools 
