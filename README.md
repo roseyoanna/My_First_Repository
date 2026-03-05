@@ -1,5 +1,4 @@
 # 💃 1st Repository
->>>>>>> e59726a (Add Python calculator and test scripts)
 Welcome, this is my space where I learn more using Git.
 
 ## 🛠️ Tools 
